@@ -15,6 +15,7 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-first-parapraph
 
 # Custom vars
 version:          3.0.0
