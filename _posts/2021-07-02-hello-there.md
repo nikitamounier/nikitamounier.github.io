@@ -2,8 +2,6 @@
 layout: post
 title: Hello, there.
 ---
-# Hello, there.
-
 ```swift
 print("Hello, world!")
 ```
