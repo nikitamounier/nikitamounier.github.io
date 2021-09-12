@@ -5,6 +5,7 @@ description:      'A programming adventure.'
 url:              https://nikitamounier.github.io
 baseurl:          /
 paginate:         5
+excerpt_separator: "<!--more-->"
 
 # About and contact
 author:
@@ -15,7 +16,6 @@ author:
 plugins:
   - jekyll-paginate
   - jekyll-gist
-  - jekyll-first-parapraph
 
 # Custom vars
 version:          3.0.0
