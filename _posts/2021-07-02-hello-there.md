@@ -6,7 +6,7 @@ title: Hello, there.
 print("Hello, world!")
 ```
 
-That was the first line of code I ever wrote. A bit cliché? Definitely. Completely unoriginal? Most likely. And yet, that may have been the most important line of code I will ever write. Because ever since that day, I ever since that moment, I fell in love with coding. Ok, this is definitely becoming too cliché. <!--more-->
+That was the first line of code I ever wrote. A bit cliché? Definitely. Completely unoriginal? Most likely. And yet, that may have been the most important line of code I will ever write. Because ever since that day, ever since that moment, I fell in love with coding. Ok, this is definitely becoming too cliché. <!--more-->
 
 Why? Why did I fall in love? I’ve been asking myself that question for a while now, and I feel like I’ll continue asking it my whole life. Is it the ability ,to use pure logic and reasoning to create something beautifully complex? Is it the power I sense at my fingertips when I know that I can do almost anything just by hitting some letters and symbols on a keyboard? Is it the sense of community and belonging that comes with diving into the world of coding? It may be all of them at once, and there may be an infinity of other reasons too.
 
