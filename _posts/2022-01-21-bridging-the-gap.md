@@ -3,7 +3,7 @@ layout: post
 title: Bridging the gap, or why every kid should have the opportunity to code.
 ---
 
-I live in London. More precisely, I live in the Royal Borough of Kensington and Chelsea. Sounds fancy, right? And sure, you can find endless amounts of Russian oligarchs, old English aristocratic families, and newly wealthy European families. Cross a single highway called Westway, however, and you enter one of the poorest neighbourhoods in London. Indeed, this borough has some of the worst inequality in London: 
+I live in London. More precisely, I live in the Royal Borough of Kensington and Chelsea. Sounds fancy, right? And sure, you can find endless amounts of Russian oligarchs, old English aristocratic families, and newly wealthy European families. Cross a single highway called Westway, however, and you enter one of the poorest neighbourhoods in London.<!--more--> Indeed, this borough has some of the worst inequality in London: 
 
 <img src="../public/borough.png" alt="Inequality map RBKC" style="zoom:50%;" />
 
